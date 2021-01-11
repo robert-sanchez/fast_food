@@ -5,3 +5,10 @@ const fastFoodRec = {
 }
 
 let foodMessege = [];
+
+function generateRandomIndex(num) {
+    return Math.floor(Math.random() * num);
+}
+
+for (let keys in fastFoodRec) {
+}
