@@ -6,3 +6,7 @@ This program is designed to recommend a fast food restaurant to order from. It w
 * git version 2.24.3
 * VS Code - Version: 1.52.1
 * Node.js v14.15.1
+## Setup
+Run script in Node.js to get your recommendation
+## Inspiration
+The program is inspired by the assigment given in the Full Stack Developer Course at [Codecademy](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-portfolio-project/modules/fscp-mixed-messages/kanban_projects/mixed-messages).
