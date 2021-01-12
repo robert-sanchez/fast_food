@@ -31,3 +31,14 @@ function fullMessage(arr) {
 }
 
 fullMessage(foodMessage);
+
+var figlet = require('figlet');
+
+figlet('Enjoy Your Food!', function(err, data) {
+    if (err) {
+        console.log('Something went wrong...');
+        console.dir(err);
+        return;
+    }
+    console.log(data)
+});
